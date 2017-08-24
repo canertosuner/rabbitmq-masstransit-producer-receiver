@@ -1,0 +1,4 @@
+c:\users\caner.tosuner\documents\visual studio 2017\Projects\RabbitMq_Masstransit\RabbitMq_Masstransit\bin\Debug\RMQMessage.dll
+c:\users\caner.tosuner\documents\visual studio 2017\Projects\RabbitMq_Masstransit\RabbitMq_Masstransit\bin\Debug\RMQMessage.pdb
+c:\users\caner.tosuner\documents\visual studio 2017\Projects\RabbitMq_Masstransit\RabbitMq_Masstransit\obj\Debug\RMQMessage.dll
+c:\users\caner.tosuner\documents\visual studio 2017\Projects\RabbitMq_Masstransit\RabbitMq_Masstransit\obj\Debug\RMQMessage.pdb
